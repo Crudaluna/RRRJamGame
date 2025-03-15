@@ -139,7 +139,7 @@ MonoBehaviour:
   moveSpeed: 2
   attackRange: 0.5
   damageAmount: 10
-  detectionRange: 40
+  detectionRange: 15
 --- !u!1 &248783055
 GameObject:
   m_ObjectHideFlags: 0
